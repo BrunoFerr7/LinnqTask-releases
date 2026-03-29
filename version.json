@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.3",
-    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.0.3/LinnqTask-v1.0.3.zip",
-    "release_page":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.3",
-    "notes":  "Improves startup speed by lazy-loading heavy modules and deferring initial hotkey registration"
+    "version":  "1.0.4",
+    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.0.4/LinnqTask-v1.0.4.zip",
+    "release_page":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.4",
+    "notes":  "Shows app version in settings and checks for updates sooner after startup"
 }
