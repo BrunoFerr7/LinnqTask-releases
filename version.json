@@ -1,5 +1,5 @@
-{
-  "version": "1.0.0",
-  "download_url": "https://github.com/BrunoFerr7/LinnqTask-releases/releases",
-  "notes": "Initial public release feed for LinnqTask."
+﻿{
+    "version":  "1.0.0",
+    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.0",
+    "notes":  "Initial LinnqTask 1.0.0 release"
 }
