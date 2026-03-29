@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.0",
-    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.0",
-    "notes":  "Initial LinnqTask 1.0.0 release"
+    "version":  "1.0.1",
+    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.1",
+    "notes":  "Fixes playback shutdown stability and reduces startup delay"
 }
