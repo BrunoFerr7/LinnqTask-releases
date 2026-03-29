@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.6",
-    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.0.6/LinnqTask-v1.0.6.zip",
-    "release_page":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.6",
-    "notes":  "Cleans updater temp artifacts and adds win rate to the header without cutting Runs"
+    "version":  "1.0.7",
+    "download_url":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.0.7/LinnqTask-v1.0.7.zip",
+    "release_page":  "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.0.7",
+    "notes":  "Retries automatic relaunch after update and styles Runs and WR in pink"
 }
