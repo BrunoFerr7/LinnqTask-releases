@@ -1,6 +1,6 @@
 ﻿{
-  "version": "1.1.3",
-  "download_url": "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.1.3/LinnqTask-v1.1.3.zip",
-  "release_page": "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.1.3",
-  "notes": "Fixes packaged hotkeys by using Windows global registration, bundles the dynamic input/vision dependencies into the EXE, and refreshes the app and folder icon."
+  "version": "1.1.4",
+  "download_url": "https://github.com/BrunoFerr7/LinnqTask-releases/releases/download/v1.1.4/LinnqTask-v1.1.4.zip",
+  "release_page": "https://github.com/BrunoFerr7/LinnqTask-releases/releases/tag/v1.1.4",
+  "notes": "Fixes the global hotkeys again by binding RegisterHotKey to the actual Qt window handle, keeps the packaged dependencies embedded, and preserves the refreshed app and folder icon."
 }
